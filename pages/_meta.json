@@ -1,15 +1,27 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
+  "index": {
+    "title": "Introduction"
   },
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
+  "design": {
+    "title": "Design"
+  },
+  "--": {
+    "type": "separator",
+    "title": "Links"
+  },
+  "website_link": {
+    "title": "Website  ↗",
+    "href": "https://argentite.org/",
+    "newWindow": true
+  },
+  "telegram_link": {
+    "title": "Telegram  ↗",
+    "href": "https://t.me/argentite_org",
+    "newWindow": true
+  },
+  "twitter_link": {
+    "title": "Twitter  ↗",
+    "href": "https://twitter.com/argentite_org",
     "newWindow": true
   }
 }
